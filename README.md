@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/dfcd699f-c9bb-4920-a1c8-6ca6afe581e3
 Below is the wiring diagram that shows how the robot's electronic components were wired.
 <img width="898" alt="Screen Shot 2024-09-08 at 12 29 02 AM" src="https://github.com/user-attachments/assets/a2103001-e63e-4a94-b147-64c41da78b2d">
 
-## Software Implemented
+### Software Implemented
 - ROS2
 - Roboflow
 - Embedded Systems
