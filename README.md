@@ -21,7 +21,7 @@ Team 3 Summer Session 2 2024
 ## Team Members and Major
 
 <div align="center">
-    <p align = "center">Guanjin Li, Electrical Engineering and Mathematics  </p> Jonathan Dela Cruz, Mechanical Engineering </p> Peter Chang, Electrical Engineering </p>
+    <p align = "center">Guanjin Li, Electrical Engineering and Mathematics</p> Jonathan Dela Cruz, Mechanical Engineering</p> Peter Chang, Electrical Engineering</p>
 </div>
 
 <!-- Final Project -->
