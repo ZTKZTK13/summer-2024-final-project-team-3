@@ -26,5 +26,22 @@ Team 3 Summer Session 2 2024
 
 <!-- Final Project -->
 ## Final Project
+The initial goal of our final project was to develop a self-driving car with the capability of detecting and avoiding objects while staying on its path. However, due to time constraints of taking this course, MAE 148, over the summer, we had to shift our goal into a more realistic one by having the car just detect and avoid objects. Below is a summary of our goals, what we achieved, and what did not go as expected and/or planned.
 
-The initial goal of our final project was to develop a self-driving vehicle with the capability of detecting and avoiding objects while staying on its path. However, due to time constraints of taking this course, MAE 148, over the summer, we had to shift our goal into a more realistic one by just making the vehicle detect and avoid objects. Below is a summary of our goals, what we achieved, and what did not go as expected and/or planned.
+<!-- Original Goals -->
+### Original Goals
+
+<!-- What We Accomplished -->
+### Goals We Met
+
+<!-- What We'd Have Done If More Time -->
+### What We Could Have Accomplished Had Time Allowed...
+
+<!-- Car Design and CAD Parts -->
+## Car Design
+
+### CAD Parts
+
+## Software Implemented
+
+## Authors and Contact
