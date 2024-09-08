@@ -26,19 +26,31 @@ Team 3 Summer Session 2 2024
 
 <!-- Final Project -->
 ## Final Project
-The initial goal of our final project was to develop a self-driving car with the capability of detecting and avoiding objects while staying on its path. However, due to time constraints of taking this course, MAE 148, over the summer, we had to shift our goal into a more realistic one by having the car just detect and avoid objects. Below is a summary of our goals, what we achieved, and what did not go as expected and/or planned.
+The initial goal of our final project was to develop a self-driving robot with the capability of detecting and avoiding obstacles while staying on its path. However, due to time constraints of taking this course, MAE 148, over the summer, we had to shift our goal into a more realistic one by having the robot just detect and avoid objects and people. Below is a summary of our goals, what we achieved, and what did not go as expected and/or planned.
 
 <!-- Original Goals -->
 ### Original Goals
+- Obstacle Detection by Robot
+    - RoboFlow implementation onto OAKD-Lite camera for obstacle detection
+    - Further software implementation via Depth-AI for detecting more complex obstacles 
+- Robot Reaction to Obstacle Detection
+    - Robot to stop before resuming motion
+- Robot To Not Deviate From Its Path
+    - Robot to return to its path after obstacle avoidance
 
 <!-- What We Accomplished -->
 ### Goals We Met
+- Simple Obstacle Detection by Robot
+    - Collected data of two objects (gym bottle and shoe) for obstacle detection
+    - Trained and utilized Roboflow model of robot to have it identify obstacles
+- Robot Reaction to Obstacle Detection
+    - Robot reacted to different objects by stopping before resuming its motion
 
 <!-- What We'd Have Done If More Time -->
 ### What We Could Have Accomplished Had Time Allowed...
 
-<!-- Car Design and CAD Parts -->
-## Car Design
+<!-- Robot Design and CAD Parts -->
+## Robot Design
 
 ### CAD Parts
 
