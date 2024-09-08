@@ -26,10 +26,10 @@ Team 3 Summer Session 2 2024
 
 <!-- Final Project -->
 ## Final Project
-The initial goal of our final project was to develop a self-driving robot with the capability of detecting and avoiding obstacles while staying on its path. However, due to time constraints of taking this course, MAE 148, over the summer, we had to shift our goal into a more realistic one by having the robot just detect and avoid objects and people. Below is a summary of our goals, what we achieved, and what did not go as expected and/or planned.
+The initial goal of our final project was to develop a self-driving robot with the capability of detecting and avoiding obstacles while staying on its path. However, due to the time constraints of taking this course, MAE 148, over the summer, we had to shift our goal into a more realistic one by having the robot just detect and avoid objects and people. Below is a summary of our goals, what we achieved, and further discussion regarding what challenges we faced along with what we could have done with more time.
 
 <!-- Original Goals -->
-### Original Goals
+### Goals
 - Obstacle Detection by Robot
     - RoboFlow implementation onto OAKD-Lite camera for obstacle detection
     - Further software implementation via Depth-AI for detecting more complex obstacles 
@@ -47,14 +47,36 @@ The initial goal of our final project was to develop a self-driving robot with t
 - Robot Reaction to Obstacle Detection
     - Robot reacted to different objects by stopping before resuming its motion
 
+<!-- Challenges and Issues -->
+### Challenges and Issues We Ran Into
+- Getting Robot to Steer Around Object
+    - Getting the robot to loop around objects in its path didn't quite work out
+    - While robot detected and avoided the objects, the robot only turned away and didn't straighten out to go around the objects for resuming its path
+
 <!-- What We'd Have Done If More Time -->
 ### What We Could Have Accomplished Had Time Allowed...
 - Detection of and Reaction to More Complex Obstacles
     - More obstacles such as walls would have been tested
 - More Thorough and Extensive Training of Roboflow Model
-    - Integration of depth feature of OAK-D Lite to stop robot based on distance away from object
+    - Integration of depth feature of OAK-D Lite to stop robot based on its distance away from object
+    - More datasets would have been taken to ensure more consistency of model
 - Robot Staying On Course after Detecting and Reacting to Obstacles
-    - Addition of path detection node to ROS2 package to prevent robot deviating from path
+    - Addition of path detection node to ROS2 package to prevent the robot from deviating off its path
+ 
+<!-- Model Training -->
+## Demonstrations
+Below are the demonstrations for our Roboflow model training, where we trained our robot to detect objects in its path, along with live demonstrations of our robot in action detecting and reacting to a stationary and moving object.
+
+### Roboflow Training
+https://github.com/user-attachments/assets/9d9e0c58-1f48-4268-ab7c-9e6054efac88
+
+## Live Demo (Stationary Object)
+https://github.com/user-attachments/assets/ec922d81-780b-403e-bd7f-cf7e924ee2d1
+
+## Live Demo (Moving Object)
+https://github.com/user-attachments/assets/a59d9f0e-fc64-4db9-a010-92b666f66c5b
+
+https://github.com/user-attachments/assets/dfcd699f-c9bb-4920-a1c8-6ca6afe581e3
 
 <!-- Robot Design and CAD Parts -->
 ## Robot Design
@@ -72,3 +94,6 @@ Below is the wiring diagram that shows how the robot's electronic components wer
 - DonkeyCar AI
 
 ## Authors and Contact
+- Guanjin Lee, gul007@ucsd.edu
+- Jonathan Dela Cruz, j3delacruz@ucsd.edu
+- Peter Chang, p8chang@ucsd.edu
