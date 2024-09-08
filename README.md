@@ -37,6 +37,7 @@ The initial goal of our final project was to develop a self-driving robot with t
     - Robot to stop before resuming motion
 - Robot To Not Deviate From Its Path
     - Robot to return to its path after obstacle avoidance
+    - Further utilization of ROS2 via node addition
 
 <!-- What We Accomplished -->
 ### Goals We Met
@@ -49,7 +50,11 @@ The initial goal of our final project was to develop a self-driving robot with t
 <!-- What We'd Have Done If More Time -->
 ### What We Could Have Accomplished Had Time Allowed...
 - Detection of and Reaction to More Complex Obstacles
-- Robot Not Deviating From its Path after Detecting and Reacting to Obstacles
+    - More obstacles such as walls would have been tested
+- More Thorough and Extensive Training of Roboflow Model
+    - Integration of depth feature of OAK-D Lite to stop robot based on distance away from object
+- Robot Staying On Course after Detecting and Reacting to Obstacles
+    - Addition of path detection node to ROS2 package to prevent robot deviating from path
 
 <!-- Robot Design and CAD Parts -->
 ## Robot Design
