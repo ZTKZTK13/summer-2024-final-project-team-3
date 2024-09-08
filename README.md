@@ -8,9 +8,9 @@
 
 <img width="1370" alt="Screen Shot 2024-09-07 at 10 14 00 PM" src="https://github.com/user-attachments/assets/23ed5c43-0378-4a74-9677-2915f6d3f65c">
 
-<h3>MAE148 Final Project</h3>
+<h3>MAE148 Final Project, Summer Session II 2024</h3>
 <p>
-Team 3 Summer Session 2 2024
+Team 3
 </p>
 
 <img width="785" alt="Screen Shot 2024-09-07 at 10 12 54 PM" src="https://github.com/user-attachments/assets/2336dfc5-b0aa-4330-b909-51a0198543bb">
