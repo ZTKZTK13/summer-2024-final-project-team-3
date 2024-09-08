@@ -48,12 +48,22 @@ The initial goal of our final project was to develop a self-driving robot with t
 
 <!-- What We'd Have Done If More Time -->
 ### What We Could Have Accomplished Had Time Allowed...
+- Detection of and Reaction to More Complex Obstacles
+- Robot Not Deviating From its Path after Detecting and Reacting to Obstacles
 
 <!-- Robot Design and CAD Parts -->
 ## Robot Design
 
 ### CAD Parts
 
+### Wiring Diagram for Electronic Hardware
+Below is the wiring diagram that shows how the robot's electronic components were wired.
+<img width="898" alt="Screen Shot 2024-09-08 at 12 29 02 AM" src="https://github.com/user-attachments/assets/a2103001-e63e-4a94-b147-64c41da78b2d">
+
 ## Software Implemented
+- ROS2
+- Roboflow
+- Embedded Systems
+- DonkeyCar AI
 
 ## Authors and Contact
