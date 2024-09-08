@@ -56,7 +56,7 @@ The initial goal of our final project was to develop a self-driving robot with t
 
 ### CAD Parts
 
-### Wiring Diagram for Electronic Hardware
+### Wiring Diagram
 Below is the wiring diagram that shows how the robot's electronic components were wired.
 <img width="898" alt="Screen Shot 2024-09-08 at 12 29 02 AM" src="https://github.com/user-attachments/assets/a2103001-e63e-4a94-b147-64c41da78b2d">
 
