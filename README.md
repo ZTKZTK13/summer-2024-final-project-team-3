@@ -103,6 +103,6 @@ Below is the wiring diagram that shows how the robot's electronic components wer
 - DonkeyCar AI
 
 ## Contact Information
-- Guanjin Lee, gul007@ucsd.edu
+- Guanjin Li, gul007@ucsd.edu
 - Jonathan Dela Cruz, j3delacruz@ucsd.edu
 - Peter Chang, p8chang@ucsd.edu
