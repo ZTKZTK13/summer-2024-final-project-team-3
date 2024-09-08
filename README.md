@@ -31,7 +31,9 @@ Team 3
 
 <div align="center">
     <p align = "center">Guanjin Li, Electrical Engineering and Mathematics</p> Jonathan Dela Cruz, Mechanical Engineering</p> Peter Chang, Electrical Engineering</p>
-Special Acknowledgements To: Conor Norris, Eric Foss, Alexander Haken, Dr. Jack Silberman
+
+  <br>
+Special Acknowledgements to: Conor Norris, Eric Foss, Alexander Haken, Dr. Jack Silberman
 </div>
 
 <!-- Final Project -->
