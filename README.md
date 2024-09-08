@@ -91,6 +91,12 @@ https://github.com/user-attachments/assets/dfcd699f-c9bb-4920-a1c8-6ca6afe581e3
 ## Robot Design
 
 ### CAD Parts
+| Part | CAD Model |
+|------|--------------|
+| Nanobox (Top) | ![NanoBox_Top](https://github.com/user-attachments/assets/b6644c03-2f58-4f59-93f8-c730754946b2) |
+| Nanobox (Bottom) | ![NanoBox_Bottom](https://github.com/user-attachments/assets/5f37eca3-dc13-4baf-ae14-bbcea524cd8b) |
+
+
 
 ### Wiring Diagram
 Below is the wiring diagram that shows how the robot's electronic components were wired.
