@@ -98,8 +98,9 @@ https://github.com/user-attachments/assets/dfcd699f-c9bb-4920-a1c8-6ca6afe581e3
 |------|--------------|
 | Nanobox (Top), by Guanjin Li | ![NanoBox_Top](https://github.com/user-attachments/assets/b6644c03-2f58-4f59-93f8-c730754946b2) |
 | Nanobox (Bottom), by Guanjin Li | ![NanoBox_Bottom](https://github.com/user-attachments/assets/5f37eca3-dc13-4baf-ae14-bbcea524cd8b) |
-
-
+| Robot Baseplate, by Conor Norris | <img width="634" alt="robot_baseplate" src="https://github.com/user-attachments/assets/c58225a6-1382-48f0-9053-e894711d9c2c"> |
+| Camera Base, by Conor Norris | <img width="680" alt="camera_base" src="https://github.com/user-attachments/assets/c58ac54e-daeb-432f-a687-c8e055cc2940">|
+| Camera Mount, by Conor Norris | <img width="633" alt="camera_mount" src="https://github.com/user-attachments/assets/a8a51167-2908-47d5-a221-c73adff04d0a"> |
 
 ### Wiring Diagram
 Below is the wiring diagram that shows how the robot's electronic components were wired.
