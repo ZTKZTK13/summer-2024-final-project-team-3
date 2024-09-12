@@ -83,15 +83,15 @@ The initial goal of our final project was to develop a self-driving robot with t
 Below are the demonstrations for our Roboflow model training, where we trained our robot to detect objects in its path, along with live demonstrations of our robot in action detecting and reacting to a stationary and moving object.
 
 ### Roboflow Training
-![video](https://github.com/user-attachments/assets/9d9e0c58-1f48-4268-ab7c-9e6054efac88)
+https://github.com/user-attachments/assets/9d9e0c58-1f48-4268-ab7c-9e6054efac88
 
 ### Live Demo (Stationary Object)
-![video](https://github.com/user-attachments/assets/ec922d81-780b-403e-bd7f-cf7e924ee2d1)
+https://github.com/user-attachments/assets/ec922d81-780b-403e-bd7f-cf7e924ee2d1
 
 ### Live Demo (Moving Object)
-![video](https://github.com/user-attachments/assets/a59d9f0e-fc64-4db9-a010-92b666f66c5b)
+https://github.com/user-attachments/assets/a59d9f0e-fc64-4db9-a010-92b666f66c5b
 
-![video](https://github.com/user-attachments/assets/dfcd699f-c9bb-4920-a1c8-6ca6afe581e3)
+https://github.com/user-attachments/assets/dfcd699f-c9bb-4920-a1c8-6ca6afe581e3
 
 <!-- Robot Design and CAD Parts -->
 ## Robot Design
